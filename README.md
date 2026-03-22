@@ -5,6 +5,14 @@ openpilot的ui设计，独立与算法部分，
 
 从 [openpilot](https://github.com/commaai/openpilot) 项目中提取的独立 UI 应用，保留了完整的用户界面功能和代码结构。
 
+<img width="2162" height="1119" alt="image" src="https://github.com/user-attachments/assets/59af8be3-4362-413e-ae93-d6150af43f22" />
+
+<img width="2162" height="1119" alt="image" src="https://github.com/user-attachments/assets/6eabfcd0-6db1-46d2-acee-83f11a005e94" />
+
+<img width="2162" height="1119" alt="image" src="https://github.com/user-attachments/assets/1ac00fa6-0fba-40db-8f04-e171281db333" />
+
+
+
 ## 特性
 
 - **完整的 UI 功能**: 保留所有原版 UI 组件
